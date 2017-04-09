@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\goNextScene.cs">
+    <Files>
+      <File FileName="Assets\scripts\MovePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ButtonController.cs" Line="133" Column="36" />
+      <File FileName="Assets\scripts\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\goNextScene.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
